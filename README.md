@@ -1,4 +1,5 @@
-![c78c72_660b53d2256e43a6a79988e568bb661d_mv2](https://user-images.githubusercontent.com/64604283/93468353-740aa580-f90c-11ea-8b7a-ddc12c203a69.gif)
+![x4](https://user-images.githubusercontent.com/64604283/93470278-46732b80-f90f-11ea-9802-b87f41d2ccee.gif)
+
 ## Hi there, I'm Suntrakanesh 👋
 *Passionate in Electronics | Focusing on Embedded System | Embedded Programming*
 
