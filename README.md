@@ -1,7 +1,7 @@
 ## Hi there, I'm Suntrakanesh 👋
 *Passionate in Electronics | Focusing on Embedded System | Embedded Programming*
 
-Here are some cool stuffs about myself :
+### Here are some cool stuffs about myself :
 
 - 🔭 I’m currently pursuing Electronics and Instrumentation Engineering in [Government College of Technology,Coimbatore](http://www.gct.ac.in/)
 - 🌱 I’m currently learning Computer Architecture and Embedded Programming
@@ -9,7 +9,7 @@ Here are some cool stuffs about myself :
 - 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/suntrakanesh-su-0a81471a4/)
 - 😄 Pronouns: He/his
 
-Follow me on :
+### Follow me on :
 
 <a href="https://www.linkedin.com/in/suntrakanesh-su-0a81471a4/" target="_blank">
   <img align="left" alt="Suntrakanesh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
