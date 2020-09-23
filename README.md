@@ -12,7 +12,8 @@
 - 😄 Pronouns: He/his
 
 ## Multisim :
-[Suntrakanesh](https://www.multisim.com/contributors/350511-suntrakanesh/)
+[![Multisim_Live](https://user-images.githubusercontent.com/64604283/94007134-985bfb80-fdbe-11ea-90e5-691fed11ab6b.jpg)
+](https://www.multisim.com/contributors/350511-suntrakanesh/)
 
 ## Tinkercad :
 [Suntrakanesh](https://www.tinkercad.com/users/iKUNEW7bex0-suntrakanesh?category=circuits&sort=likes&view_mode=default)
