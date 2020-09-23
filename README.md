@@ -11,9 +11,11 @@
 - 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/suntrakanesh-su-0a81471a4/)
 - 😄 Pronouns: He/his
 
-- :+1:Multisim : [Suntrakanesh](https://www.multisim.com/contributors/350511-suntrakanesh/)
+## Multisim :
+[Suntrakanesh](https://www.multisim.com/contributors/350511-suntrakanesh/)
 
-- :+1:Tinkercad :[Suntrakanesh](https://www.tinkercad.com/users/iKUNEW7bex0-suntrakanesh?category=circuits&sort=likes&view_mode=default)
+## Tinkercad :
+[Suntrakanesh](https://www.tinkercad.com/users/iKUNEW7bex0-suntrakanesh?category=circuits&sort=likes&view_mode=default)
 
 ### Follow me on :
 
