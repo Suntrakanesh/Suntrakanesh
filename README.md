@@ -11,7 +11,7 @@
 - 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/suntrakanesh-su-0a81471a4/)
 - 😄 Pronouns: He/his
 
-## My Multisim circuits:
+## My Multisim circuits :
 [![Multisim_Live](https://user-images.githubusercontent.com/64604283/94007134-985bfb80-fdbe-11ea-90e5-691fed11ab6b.jpg)
 ](https://www.multisim.com/contributors/350511-suntrakanesh/)
 
