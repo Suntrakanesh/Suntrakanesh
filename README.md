@@ -8,7 +8,7 @@
 - 🔭 I’m currently pursuing Electronics and Instrumentation Engineering in [Government College of Technology,Coimbatore](http://www.gct.ac.in/)
 - 🌱 I’m currently learning Computer Architecture and Embedded Programming
 - 👯 I’m looking to collaborate on next generation computing such as Quantum and Neuromorphic computing
-- 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/suntrakanesh-su-0a81471a4/)
+- 📫 How to reach me : [### Linkedin](https://www.linkedin.com/in/suntrakanesh-su-0a81471a4/)
 - 😄 Pronouns: He/his
 
 ## My Multisim circuits :
