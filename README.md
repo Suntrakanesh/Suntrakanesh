@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/his
 
 ### My Multisim circuits :<a href="https://www.multisim.com/contributors/350511-suntrakanesh/" target="_blank">
-  <img align="center" alt="Suntrakanesh's Multisim works" width="150px" src="https://user-images.githubusercontent.com/64604283/94007134-985bfb80-fdbe-11ea-90e5-691fed11ab6b.jpg" />
+  <img align="right" alt="Suntrakanesh's Multisim works" width="150px" src="https://user-images.githubusercontent.com/64604283/94007134-985bfb80-fdbe-11ea-90e5-691fed11ab6b.jpg" />
 </a><br/>
 
 ### My Tinkercad works :<a href="https://www.tinkercad.com/users/iKUNEW7bex0-suntrakanesh?category=circuits&sort=likes&view_mode=default" target="_blank">
