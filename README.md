@@ -10,7 +10,7 @@
 - 📫 How to reach me : [Linkedin](https://www.linkedin.com/in/suntrakanesh-su-0a81471a4/)
 - 😄 Pronouns: He/his
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/64604283/93470278-46732b80-f90f-11ea-9802-b87f41d2ccee.gif" width="500" height="320" />  
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/64604283/101611830-d8467e00-39be-11eb-8ead-72ab015813a1.gif" width="450" height="320" />  
 
 ### My Multisim circuits :<a href="https://www.multisim.com/contributors/350511-suntrakanesh/" target="_blank">
   <img align="center" alt="Suntrakanesh's Multisim works" width="150px" src="https://user-images.githubusercontent.com/64604283/94007134-985bfb80-fdbe-11ea-90e5-691fed11ab6b.jpg" />
