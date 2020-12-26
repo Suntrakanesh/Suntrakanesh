@@ -21,7 +21,7 @@
 
 ### Skills:
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![MATLAB](https://img.shields.io/badge/-MATALB-0076A8?style=flat-square&logo=Mathworks&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino) ![Arduino](https://img.shields.io/badge/ROS-darkblue?style=flat-square&logo=ros) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![MATLAB](https://img.shields.io/badge/-MATALB-0076A8?style=flat-square&logo=Mathworks&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino) ![ROS](https://img.shields.io/badge/ROS-darkblue?style=flat-square&logo=ros) 
 
 [![Suntrakanesh's github stats](https://github-readme-stats.vercel.app/api?username=Suntrakanesh&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
 ### Follow me on :
